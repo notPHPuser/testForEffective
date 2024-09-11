@@ -53,5 +53,3 @@ def test_purchase():
 
 
 assert test_purchase() == True, "Ошибка, транзакция не прошла"
-
-

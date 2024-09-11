@@ -4,6 +4,7 @@
 bash:
 git clone https://github.com/notPHPuser/testForEffective
 cd testForEffective
+cd testWork
 3. Запустите тест:
 bash:
 python test.py

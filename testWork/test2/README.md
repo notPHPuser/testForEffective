@@ -5,6 +5,7 @@
 bash:
 git clone https://github.com/notPHPuser/testForEffective
 cd testForEffective
+cd testWork
 cd test2
 3. Установите зависимость:
 bash:
